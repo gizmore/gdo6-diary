@@ -6,4 +6,7 @@ return [
     'mdescr_diary_drinkingrules2021' => 'Meine (gizmore) Trinkregeln für 2021',
     'mtitle_diary_welcome' => 'Willkommen',
     'mdescr_diary_welcome' => 'Über gizmore und sein Tagebuch. gizmore ist ein Möchtegern-Hacker aus Deutschland.',
+    
+    'link_diary' => 'Verrücktes Tagebuch',
+    'link_diary_alcrules' => 'Trinkregeln',
 ];
