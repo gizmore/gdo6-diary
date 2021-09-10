@@ -1,5 +1,4 @@
 <h1>Trinkregeln 2021</h1>
-
 <ul>
   <li>1. Niemals mehr alleine trinken.</li>
   <li>2. Keinen Vodka trinken.

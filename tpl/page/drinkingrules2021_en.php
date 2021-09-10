@@ -1,5 +1,4 @@
 <h1>Drinking Rules 2021</h1>
-
 <ul>
   <li>1. Never drink alone anymore.</li>
   <li>2. Never drink vodka anymore.
