@@ -36,8 +36,8 @@ final class Module_Diary extends GDO_Module
     public function onInstall()
     {
         $m = Module_Birthday::instance();
-        $m->saveConfigVar('', '12');
-        $m->saveConfigVar('', '18');
+        $m->saveConfigVar('global_min_age', '12');
+        $m->saveConfigVar('method_min_age', '18');
     }
     
     public function onIncludeScripts()
