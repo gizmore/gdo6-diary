@@ -11,7 +11,7 @@ final class Scans2014 extends MethodPage
     use WithAgeCheck;
     protected function agecheckAge()
     {
-        return 100;
+        return 18;
     }
     
     public function execute()
